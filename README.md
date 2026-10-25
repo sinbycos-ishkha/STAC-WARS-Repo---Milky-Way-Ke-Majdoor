@@ -1,4 +1,3 @@
-# STAC-WARS-Repo---Milky-Way-Ke-Majdoor
 # STAC WARS — Milky Way Ke Majdoor
 
 This repository consolidates our team's work for all three problem statements (PS) under STAC WARS.
